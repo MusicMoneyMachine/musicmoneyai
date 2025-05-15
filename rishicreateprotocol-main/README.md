@@ -1,7 +1,9 @@
+# APIs for Musicmoney Image gen agent, based on the work by Create Protocol AI infra
+
 # Rishi API
 
 This API provides a flexible and extensible platform for various media processing tasks. Currently, it supports image processing operations, including model training and inference, with plans to expand to other media types in the future.
-
+createprotocol.org
 ## Features
 
 - Image processing
